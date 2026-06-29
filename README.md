@@ -2,7 +2,7 @@ UrbanPulse  - Urban Mobility Analytics Platform
 
 > **Team 3 | Code Mavens**
 
-UrbanPulse AI is a comprehensive urban mobility analytics platform designed to analyze public transportation data, improve route efficiency, detect data quality issues, and provide actionable insights through interactive dashboards and geospatial visualization.
+UrbanPulse is a comprehensive urban mobility analytics platform designed to analyze public transportation data, improve route efficiency, detect data quality issues, and provide actionable insights through interactive dashboards and geospatial visualization.
 
 The project goes beyond the hackathon requirements by implementing a modular data engineering pipeline, custom algorithms, statistical analytics, and a full-fledged Streamlit dashboard.
 
